@@ -1,0 +1,14 @@
+nav {
+  background-color: #ff5b4f;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.Menu {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+}

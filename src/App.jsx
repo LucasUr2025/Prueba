@@ -1,8 +1,8 @@
-import { useState } from 'react'
-import Header from './components/header/header.jsx'
-import Main from './components/menu/menu.jsx'
-import Home from './components/home/home.jsx'
-import Footer from './components/footer/footer.jsx'
+import Header from './components/Header/header.jsx'
+import Main from './components/Menu/menu.jsx'
+import Home from './components/Home/home.jsx'
+import Footer from './components/Footer/footer.jsx'
+import './App.css'
 
 function App() {
   return (

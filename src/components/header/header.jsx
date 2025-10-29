@@ -1,9 +1,11 @@
+import './header.css'
+
 export default function Header() {
   return (
     <header>
       <img
         className="logo"
-        src="https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/LogoHeader.jpg"
+        src="src/img/LogoHeader.jpg"
         alt="Logo"
         height="100px"
       />
@@ -11,7 +13,7 @@ export default function Header() {
       <div className="Usuario">
         <div>
           <img
-            src="https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/Usuario.jpg"
+            src="src/img/Usuario.jpg"
             alt="Ingresar usuario"
             height="35px"
           />
@@ -21,7 +23,7 @@ export default function Header() {
       <div className="Carrito">
         <div>
           <img
-            src="https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/Dinero.jpg"
+            src="src/img/Dinero.jpg"
             alt="Signo de dinero"
             height="35px"
           />
@@ -29,7 +31,7 @@ export default function Header() {
         <h2>0</h2>
         <div>
           <img
-            src="https://raw.githubusercontent.com/LucasUr2025/MercaderiaPerfumeriaYLimpieza/refs/heads/main/Carrito.jpg"
+            src="src/img/Carrito.jpg"
             alt="Carrito de compras"
             height="37px"
           />
