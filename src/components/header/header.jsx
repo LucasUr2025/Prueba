@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <img
         className="logo"
-        src="src/img/LogoHeader.jpg"
+        src="src/assets/LogoHeader.jpg"
         alt="Logo"
         height="100px"
       />
@@ -13,7 +13,7 @@ export default function Header() {
       <div className="Usuario">
         <div>
           <img
-            src="src/img/Usuario.jpg"
+            src="src/assets/Usuario.jpg"
             alt="Ingresar usuario"
             height="35px"
           />
@@ -23,7 +23,7 @@ export default function Header() {
       <div className="Carrito">
         <div>
           <img
-            src="src/img/Dinero.jpg"
+            src="src/assets/Dinero.jpg"
             alt="Signo de dinero"
             height="35px"
           />
@@ -31,7 +31,7 @@ export default function Header() {
         <h2>0</h2>
         <div>
           <img
-            src="src/img/Carrito.jpg"
+            src="src/assets/Carrito.jpg"
             alt="Carrito de compras"
             height="37px"
           />
